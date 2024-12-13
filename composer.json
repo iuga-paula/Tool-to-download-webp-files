@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "ext-dom": "*",
+        "ext-libxml": "*"
+    }
+}
